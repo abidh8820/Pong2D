@@ -2,7 +2,7 @@
 
 Welcome to Pong2D, a classic Pong game developed using the Unity game engine. Pong2D brings back the nostalgia of the iconic Pong arcade game in a new 2D format. Compete against your friends or challenge the AI in this simple yet addictive experience.
 
-![Gameplay Screenshot](Images/screenshot1.png)
+![Gameplay Screenshot]([Images/screenshot1.png](https://raw.githubusercontent.com/abidh8820/Pong2D/main/Screenshots/screen1.png))
 
 ## Gameplay
 
