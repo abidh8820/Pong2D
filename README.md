@@ -19,4 +19,4 @@ Pong2D is a two-player game where each player controls a paddle on opposite side
 
 ![Game Over Screenshot](Images/screenshot2.png)
 
-Enjoy the timeless fun of Pong2D and test your skills against friends or the AI. Can you reach the highest score and become the Pong champion? Download and play now!
+Enjoy the timeless fun of Pong2D and test your skills against friends or the AI. Can you reach the highest score and become the Pong champion? 
